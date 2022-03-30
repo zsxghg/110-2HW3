@@ -4,4 +4,4 @@
 ## 大綱敘述
 請參照課本p. 94的第12題。
 
-作完上述動作後，別忘記至<https://docs.google.com/spreadsheets/d/106OOVTaAWRtVoJ7a8mYQmPtD_wjm4Vwp/edit#gid=2053224699>確認「基本資料」分頁的個人github帳戶是否有填寫自己帳戶的網址，以及在「練習」分頁的作業3欄位下，填入伺服器端自己的倉庫網址。沒寫明將會無法評分，敬請注意。
+作完上述動作後，別忘記至<https://docs.google.com/spreadsheets/d/106OOVTaAWRtVoJ7a8mYQmPtD_wjm4Vwp/edit#gid=2053224699>確認「基本資料」分頁的個人github帳戶是否有填寫自己帳戶的網址，以及在「作業」分頁的作業3欄位下，填入伺服器端自己的倉庫網址。沒寫明將會無法評分，敬請注意。
